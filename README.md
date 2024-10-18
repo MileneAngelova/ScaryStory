@@ -2,6 +2,6 @@
 Development Workflow Exercise - Team work at SoftUni
 
 ## Roles:
-**bold** Senior: Milena
-**bold** QA    : Hristo
-**bold** Junior: Daniela 
+#### Senior: Milena 
+#### QA    : Hristo
+#### Junior: Daniela
